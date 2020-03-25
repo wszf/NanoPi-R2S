@@ -1,5 +1,3 @@
-## 20200325
-* test
 ## 20200311
 * 添加 xt_FLOWOFFLOAD
 * 添加 RTL8821CU 源代码
